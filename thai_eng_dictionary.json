@@ -1,0 +1,21 @@
+{
+  "thai": {
+    "พร": "ฟรี",
+    "ฟร": "ฟรี",
+    "บอกล": "บอกลา",
+    "เซนต": "เซนต์",
+    "วดโอ": "วิดีโอ",
+    "โอ": "โอ"
+  },
+  "english": {
+    "Goegle": "Google",
+    "Gooogle": "Google",
+    "Goggle": "Google"
+  },
+  "whitelist": [
+    "CapCut",
+    "Google",
+    "Vids",
+    "AI"
+  ]
+}
