@@ -25,25 +25,28 @@
     "เสยง": "เสียง",
     "เสย": "เสียง",
 
-    "ล": "ลา",
-
     "ครป": "ครบ",
 
-    "ทำวิดีโอฟรีเซนตครบ": "ทำวิดีโอฟรีเซนต์ครบ"
+    "ทำวิดีโอฟรีเซนตครบ": "ทำวิดีโอฟรีเซนต์ครบ",
+    "ทำวิดีโอฟรีเซนครบ": "ทำวิดีโอฟรีเซนต์ครบ"
   },
 
   "english": {
+    "goegle": "Google",
     "Goegle": "Google",
     "Gooogle": "Google",
     "Goggle": "Google",
     "Go0gle": "Google",
 
+    "vido": "Video",
     "Vido": "Video",
     "Vdeo": "Video",
 
+    "al": "AI",
     "Al": "AI",
     "A1": "AI",
 
+    "capcut": "CapCut",
     "Capcut": "CapCut",
     "CapCul": "CapCut",
     "CapCur": "CapCut"
